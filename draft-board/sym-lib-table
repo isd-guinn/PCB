@@ -3,4 +3,6 @@
   (lib (name "ESP32-S3-WROOM-1-N8")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-S3-WROOM-1-N8/ESP32-S3-WROOM-1-N8.kicad_sym")(options "")(descr ""))
   (lib (name "DRV8871DDA")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8871DDA/DRV8871DDA.kicad_sym")(options "")(descr ""))
   (lib (name "LM3150MH")(type "KiCad")(uri "${KIPRJMOD}/lib/LM3150MH/LM3150MH.kicad_sym")(options "")(descr ""))
+  (lib (name "nb679gd-z")(type "KiCad")(uri "${KIPRJMOD}/lib/NB679GD-Z/nb679gd-z.kicad_sym")(options "")(descr ""))
+  (lib (name "rs3236")(type "KiCad")(uri "${KIPRJMOD}/lib/RS3236/rs3236.kicad_sym")(options "")(descr ""))
 )
