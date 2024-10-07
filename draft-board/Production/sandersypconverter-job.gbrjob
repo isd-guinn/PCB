@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2024-10-07T09:32:21+08:00"
+    "CreationDate": "2024-10-07T09:41:30+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "draft-board",
-      "GUID": "64726166-742d-4626-9f61-72642e6b6963",
+      "Name": "sandersypconverter",
+      "GUID": "73616e64-6572-4737-9970-636f6e766572",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.1524,
       "TrackToRegion": 0.2,
@@ -33,8 +33,8 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "TrackToRegion": 0.3,
       "RegionToRegion": 0.3
@@ -42,57 +42,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "draft-board-F_Cu.gbr",
+      "Path": "sandersypconverter-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-In1_POWER_Cu.gbr",
+      "Path": "sandersypconverter-In1_POWER_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-In2_GND_Cu.gbr",
+      "Path": "sandersypconverter-In2_GND_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-B_Cu.gbr",
+      "Path": "sandersypconverter-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-F_Paste.gbr",
+      "Path": "sandersypconverter-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-B_Paste.gbr",
+      "Path": "sandersypconverter-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-F_Silkscreen.gbr",
+      "Path": "sandersypconverter-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-B_Silkscreen.gbr",
+      "Path": "sandersypconverter-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "draft-board-F_Mask.gbr",
+      "Path": "sandersypconverter-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "draft-board-B_Mask.gbr",
+      "Path": "sandersypconverter-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "draft-board-Edge_Cuts.gbr",
+      "Path": "sandersypconverter-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
